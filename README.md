@@ -1,2 +1,2 @@
 # cookiemonster-website-
-simple website created using visual studio code
+simple website created using html and css
